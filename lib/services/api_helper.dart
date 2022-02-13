@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:zpassesment/model/countries_model.dart';
-import 'package:zpassesment/resorce/app_strings.dart';
-import 'package:zpassesment/resorce/message_dialog.dart';
+import 'package:zpassesment/resource/app_strings.dart';
+import 'package:zpassesment/resource/message_dialog.dart';
 
 class ApiHelper {
   final HttpLink httpLink = HttpLink(

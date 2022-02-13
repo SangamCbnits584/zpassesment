@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:zpassesment/resorce/app_strings.dart';
+import 'package:zpassesment/resource/app_strings.dart';
 import 'package:zpassesment/ui/country_landing_screen.dart';
 
 void main() {

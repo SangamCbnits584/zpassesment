@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:zpassesment/model/countries_model.dart';
-import 'package:zpassesment/resorce/message_dialog.dart';
+import 'package:zpassesment/resource/message_dialog.dart';
 import 'package:zpassesment/services/api_helper.dart';
 import 'package:zpassesment/services/enum.dart';
 
